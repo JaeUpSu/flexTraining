@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  font-size: 30px;
+  height: 100vh;
+}
+
+.child {
+  width: 100px;
+  height: 100px;
+  color: white;
+  background-color: brown;
+}
